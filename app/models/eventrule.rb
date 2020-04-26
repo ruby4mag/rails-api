@@ -1,0 +1,2 @@
+class Eventrule < ApplicationRecord
+end
